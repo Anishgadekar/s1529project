@@ -14,8 +14,10 @@ public class CarTest {
 
 	@Test
 	public void test() {
+		System.out.println("welcome");
 		mycar.addcap(100);
 		assertEquals(200,mycar.getCapacity());
+		
 	}
 
 }
