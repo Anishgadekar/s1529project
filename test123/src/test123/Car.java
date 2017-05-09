@@ -5,7 +5,8 @@ int capacity;
 
 	public  Car(int incap) {
 		this.capacity= incap;
-		
+		System.out.println("welcome");
+		System.out.println("to junit testing");
 		
 		
 	}
